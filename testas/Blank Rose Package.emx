@@ -1311,6 +1311,9 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fTLo8YS9EeKg7PJkEQAYpw" points="[12, -12, -255, 257]$[264, -258, -3, 11]"/>
         </edges>
       </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vWTjAIaZEeKn3cwBY3mu_Q" type="Class" name="ClassDiagram">
+        <element xsi:nil="true"/>
+      </contents>
     </eAnnotations>
     <eAnnotations xmi:id="_C5gAo3w4EeKp5su4ajH_AQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
       <details xmi:id="_C5gApHw4EeKp5su4ajH_AQ" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
