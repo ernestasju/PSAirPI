@@ -2,7 +2,7 @@
 <!--xtools2_universal_type_manager-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RUPAnalysis="http:///schemas/RUPAnalysis/3" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/RUPAnalysis/3 pathmap://RUP_PROFILES/RUPAnalysis.epx#_DM6zsMmEEdqP1b5S0px2VQ?RUPAnalysis/RUPAnalysis?">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RUPAnalysis="http:///schemas/RUPAnalysis/3" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/RUPAnalysis/3 pathmap://RUP_PROFILES/RUPAnalysis.epx#_DM6zsMmEEdqP1b5S0px2VQ?RUPAnalysis/RUPAnalysis? http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
   <uml:Model xmi:id="_P815kIMnEeKNc_WTUZkI7A" name="Blank Model">
     <eAnnotations xmi:id="_P815kYMnEeKNc_WTUZkI7A" source="uml2.diagrams">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_JLbRcIabEeKn3cwBY3mu_Q" type="Class" name="ClassDiagram">
@@ -9184,4 +9184,26 @@
   <RUPAnalysis:Entity xmi:id="_4fPZQIagEeKn3cwBY3mu_Q" base_Class="_1w_DQIagEeKn3cwBY3mu_Q"/>
   <RUPAnalysis:Entity xmi:id="_KvbMEIahEeKn3cwBY3mu_Q" base_Class="_JBcnUIahEeKn3cwBY3mu_Q"/>
   <RUPAnalysis:Control xmi:id="_XvcFwIahEeKn3cwBY3mu_Q" base_Class="_WNyFwIahEeKn3cwBY3mu_Q"/>
+  <Standard:Specification xmi:id="_5GijAIcSEeKWrK2xAVJiCw" base_Classifier="_nN_xYH9BEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GjxIIcSEeKWrK2xAVJiCw" base_Classifier="_uzI90H9BEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GkYMIcSEeKWrK2xAVJiCw" base_Classifier="_1K7mUH9BEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gk_QIcSEeKWrK2xAVJiCw" base_Classifier="_2_kzwH9BEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gk_QYcSEeKWrK2xAVJiCw" base_Classifier="_QbKdUH9CEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GlmUIcSEeKWrK2xAVJiCw" base_Classifier="_SLMQgH9CEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GlmUYcSEeKWrK2xAVJiCw" base_Classifier="_dynmoH9CEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GmNYIcSEeKWrK2xAVJiCw" base_Classifier="_mW2RgH9CEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gm0cIcSEeKWrK2xAVJiCw" base_Classifier="_NBkO0H9DEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gm0cYcSEeKWrK2xAVJiCw" base_Classifier="_b3x1IH9DEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GnbgIcSEeKWrK2xAVJiCw" base_Classifier="_BRGcAH9EEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GoCkIcSEeKWrK2xAVJiCw" base_Classifier="_UGfNoH9EEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GoCkYcSEeKWrK2xAVJiCw" base_Classifier="_42rGAH9GEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GopoIcSEeKWrK2xAVJiCw" base_Classifier="_-1MS4H9GEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GopoYcSEeKWrK2xAVJiCw" base_Classifier="_K1L6AH9HEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GpQsIcSEeKWrK2xAVJiCw" base_Classifier="_372nEH9HEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GpQsYcSEeKWrK2xAVJiCw" base_Classifier="_TG-7oH9IEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gp3wIcSEeKWrK2xAVJiCw" base_Classifier="_qa2qwH9IEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gqe0IcSEeKWrK2xAVJiCw" base_Classifier="__w9ssH9IEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5Gqe0YcSEeKWrK2xAVJiCw" base_Classifier="_DGL8EH9JEeKEk9DBgJSM_g"/>
+  <Standard:Specification xmi:id="_5GrF4IcSEeKWrK2xAVJiCw" base_Classifier="_tUO-UIS8EeKg7PJkEQAYpw"/>
+  <Standard:Specification xmi:id="_5GrF4YcSEeKWrK2xAVJiCw" base_Classifier="_KET3cIS9EeKg7PJkEQAYpw"/>
 </xmi:XMI>
