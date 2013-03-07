@@ -1,0 +1,3 @@
+# .metadata folder contains info about specific user's
+# specific workspace, so it must be excluded!
+.metadata/*
