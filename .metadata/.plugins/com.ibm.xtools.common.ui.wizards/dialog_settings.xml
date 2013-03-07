@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="NewModelWizard">
-		<item value="cpp.blank.template" key="NewModelFromTemplatePage.lastTemplate"/>
-		<item value="com.ibm.xtools.cpp.category" key="NewModelFromTemplatePage.lastCategory"/>
-	</section>
-</section>
