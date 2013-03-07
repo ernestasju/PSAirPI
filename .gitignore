@@ -1,4 +1,4 @@
-# .metadata folder contains info about specific user's
+# .metadata folder contains info about IBM RSA specific user's
 # specific workspace, so it must be excluded!
 .metadata/*
 .metadata\\*
