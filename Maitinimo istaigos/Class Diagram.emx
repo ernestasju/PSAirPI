@@ -183,7 +183,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="__2NHI4adEeKn3cwBY3mu_Q" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="__2NHJIadEeKn3cwBY3mu_Q" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__2NHJYadEeKn3cwBY3mu_Q" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2LR8YadEeKn3cwBY3mu_Q" x="8052" y="1320"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__2LR8YadEeKn3cwBY3mu_Q" x="8844" y="2112"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_G5arMIaeEeKn3cwBY3mu_Q" element="_G4GckIaeEeKn3cwBY3mu_Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_G5arMoaeEeKn3cwBY3mu_Q" type="ImageCompartment">
@@ -2240,6 +2240,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_neKn44_2EeKj0v9-S3Hk6g" value="1"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_k_-GwJIdEeKyg90qH8dcjA" name="Sign in"/>
     <profileApplication xmi:id="_83J0JY_1EeKj0v9-S3Hk6g">
       <eAnnotations xmi:id="_83J0Jo_1EeKj0v9-S3Hk6g" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
