@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_PByDc7vmEeKJYId_lrX5hg" name="Impl Model">
+  <eAnnotations xmi:id="_PByDdLvmEeKJYId_lrX5hg" source="uml2.diagrams" references="_PByDdbvmEeKJYId_lrX5hg">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_PByDdbvmEeKJYId_lrX5hg" type="Freeform" name="Main"/>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_5ISa4LvVEeKJYId_lrX5hg" type="Class" name="Implementation CD">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TwexxrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwexyLvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_LJsK0bvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwexyrvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Twexy7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwexzLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwexzbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwexzrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwoiwLvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Money%5Bjcu%5Ename=Money.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LJZP4bvWEeKJYId_lrX5hg" x="1716" y="792"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T2R3wLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T2R3wrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_LqkqU7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2R3xLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2R3xbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2R3xrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2R3x7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2R3yLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2R3ybvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Balances%5Bjcu%5Ename=Balances.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LqkqUbvWEeKJYId_lrX5hg" x="18084" y="660"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T1ZG8LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1ZG8rvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_PTjjM7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1ZG9LvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1ZG9bvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1ZG9rvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1ZG97vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1ZG-LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1ZG-bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PTjjMbvWEeKJYId_lrX5hg" x="8184" y="-4884"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TxEnoLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxEnorvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Qs9mJLvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxEnpLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxEnpbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxEnprvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxEnp7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxEnqLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxEnqbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Log%5Bjcu%5Ename=Log.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qs9mIrvWEeKJYId_lrX5hg" x="3168" y="6204"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T2lZwLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T2lZwrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Rq_7s7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2lZxLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2lZxbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2lZxrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2lZx7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2lZyLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T2lZybvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Status%5Bjcu%5Ename=Status.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rq_7sbvWEeKJYId_lrX5hg" x="13596" y="4488"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_Tz55OrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tz55PLvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_TH27RLvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55PrvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55P7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55QLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tz55QbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0DDILvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0DDIbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Reciept%5Bjcu%5Ename=Reciept.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TH27QrvWEeKJYId_lrX5hg" x="19536" y="6072"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_Tx0OirvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tx9_gLvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_VDfhgbvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_grvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_g7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_hLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_hbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_hrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_h7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VDVwgrvWEeKJYId_lrX5hg" x="4224" y="10560"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T11y6rvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T11y7LvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_XU_qEbvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y7rvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y77vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y8LvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T11y8bvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1-80LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1-80bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EnvelopeAcceptor%5Bjcu%5Ename=EnvelopeAcceptor.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XU15ErvWEeKJYId_lrX5hg" x="8844" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_Tyj1arvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tyj1bLvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_ZXnpI7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1brvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1b7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1cLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TytmYLvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TytmYbvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TytmYrvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NetworkToBank%5Bjcu%5Ename=NetworkToBank.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZXnpIbvWEeKJYId_lrX5hg" x="14124" y="8184"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TvlZ4LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvlZ4rvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_bW9qs7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvlZ5LvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvlZ5bvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvlZ5rvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TvlZ57vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TvlZ6LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TvlZ6bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OperatorPanel%5Bjcu%5Ename=OperatorPanel.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bW9qsbvWEeKJYId_lrX5hg" x="16368" y="14916"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TwL20LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwL20rvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_diGFhLvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwL21LvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwL21bvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwL21rvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwL217vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwL22LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TwL22bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_diGFgrvWEeKJYId_lrX5hg" x="8976" y="12804"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TzwINLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzwINrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_fKiC9LvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzwIOLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzwIObvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzwIOrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzwIO7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzwIPLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzwIPbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CustomerConsole%5Bjcu%5Ename=CustomerConsole.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fKiC8rvWEeKJYId_lrX5hg" x="-157" y="11599"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T08bDLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1GMALvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hLX5U7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMArvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMA7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMBLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1GMBbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1GMBrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1GMB7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CardReader%5Bjcu%5Ename=CardReader.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hLX5UbvWEeKJYId_lrX5hg" x="1452" y="17028"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T1sB4LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1sB4rvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_jdBL1LvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1sB5LvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1sB5bvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1sB5rvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1sB57vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1sB6LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T1sB6bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jdBL0rvWEeKJYId_lrX5hg" x="2508" y="33660"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxrEkrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_k8Ys07vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxrElLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxrElbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxrElrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxrEl7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxrEmLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TxrEmbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k8Ys0bvWEeKJYId_lrX5hg" x="18480" y="26664"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TzTcQLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzTcQrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_m1PE1LvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzTcRLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzTcRbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzTcRrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzTcR7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzTcSLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzTcSbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ReceiptPrinter%5Bjcu%5Ename=ReceiptPrinter.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1PE0rvWEeKJYId_lrX5hg" x="16500" y="17820"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TyarcLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyarcrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_26nM87vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyardLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyardbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyardrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tyard7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TyareLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TyarebvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Card%5Bjcu%5Ename=Card.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_26nM8bvWEeKJYId_lrX5hg" x="2508" y="20856"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T3LPoLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3eKkLvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jpnU7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3eKkrvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3eKk7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3eKlLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T3eKlbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T3eKlrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T3eKl7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Withdrawal%5Bjcu%5Ename=Withdrawal.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jpnUbvWEeKJYId_lrX5hg" x="10428" y="35244"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T0pgGrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0yqALvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6EhkM7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqArvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqA7vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqBLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0yqBbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0yqBrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0yqB7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Deposit%5Bjcu%5Ename=Deposit.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6EhkMbvWEeKJYId_lrX5hg" x="3828" y="28908"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_TzAhW7vnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzAhXbvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_7MiVI7vWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSULvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSUbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSUrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzKSU7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzKSVLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_TzKSVbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transfer%5Bjcu%5Ename=Transfer.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7MiVIbvWEeKJYId_lrX5hg" x="10032" y="29964"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T0fvELvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0fvErvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_8VIU5LvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0fvFLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0fvFbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0fvFrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0fvF7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0fvGLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_T0fvGbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Inquiry%5Bjcu%5Ename=Inquiry.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8VIU4rvWEeKJYId_lrX5hg" x="17556" y="21252"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_Tzm-QLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tzm-QrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_9dSPxLvWEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tzm-RLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tzm-RbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tzm-RrvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tzm-R7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tzm-SLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Tzm-SbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountInformation%5Bjcu%5Ename=AccountInformation.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9dSPwrvWEeKJYId_lrX5hg" x="1452" y="25344"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TvcP8LvnEeKJYId_lrX5hg" source="_T3LPoLvnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvcP8rvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvcP9LvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvcP9bvnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nlx9U7vXEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Withdrawal%5Bjcu%5Ename=Withdrawal.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Nlx9UbvXEeKJYId_lrX5hg" points="[40, -633, -7037, 2008]$[40, -1173, -7037, 1468]$[2593, -1173, -4484, 1468]$[2593, -2496, -4484, 145]$[5637, -2496, -1440, 145]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T24UsLvnEeKJYId_lrX5hg" source="_T0pgGrvnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T24UsrvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24UtLvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24UtbvnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OWvgNLvXEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Deposit%5Bjcu%5Ename=Deposit.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OWvgMrvXEeKJYId_lrX5hg" points="[-53, -633, -3955, 1928]$[-53, -2019, -3955, 542]$[2462, -2019, -1440, 542]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T08bALvnEeKJYId_lrX5hg" source="_TzAhW7vnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T08bArvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T08bBLvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T08bBbvnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rd9Iw7vXEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Transfer%5Bjcu%5Ename=Transfer.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Rd9IwbvXEeKJYId_lrX5hg" points="[1, -24, -32, 71]$[-21, -77, -54, 18]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TxOYpLvnEeKJYId_lrX5hg" source="_T0fvELvnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxOYprvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJoLvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJobvnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R9fkdLvXEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Inquiry%5Bjcu%5Ename=Inquiry.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_R9fkcrvXEeKJYId_lrX5hg" points="[-10, -24, 68, 70]$[-24, -87, 54, 7]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Tu1zALvnEeKJYId_lrX5hg" source="_T1sB4LvnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tu1zArvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tu1zBLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_fx-oB7vXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tu1zBbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tu1zB7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_fx-oCrvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tu1zCLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_Tu1zCrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Tu1zCbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=transaction%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fx03AbvXEeKJYId_lrX5hg" points="[1123, -386, -6454, -1178]$[6639, -386, -938, -1178]$[6639, 159, -938, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TyHwgLvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_T08bDLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyHwgrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyHwhLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_jfSnTbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyHwhbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyHwh7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_jfSnULvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyHwiLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TyHwirvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TyHwibvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=cardReader%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jfSnQbvXEeKJYId_lrX5hg" points="[-33, 13, 316, -117]$[-295, 129, 54, -1]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TxYJqLvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_T1sB4LvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxYJqrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJrLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_nDFeK7vXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxYJrbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJr7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_nDFeLrvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxYJsLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TxYJsrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TxYJsbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=session%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nC8UMbvXEeKJYId_lrX5hg" points="[-29, 24, 161, -146]$[-181, 146, 9, -24]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Tw7dsLvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_TxrEkLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tw7dsrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tw7dtLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_n9QnZLvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tw7dtbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tw7dt7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_n9QnZ7vXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tw7duLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_Tw7durvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Tw7dubvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=transaction%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_n9G2YbvXEeKJYId_lrX5hg" points="[-83, 634, -2632, -4646]$[-83, 2514, -2632, -2766]$[2140, 2514, -409, -2766]$[2140, 4647, -409, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TwxssLvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_TzTcQLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwxssrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwxstLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_szAOXbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwxstbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Twxst7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_szAOYLvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwxsuLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TwxsurvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TwxsubvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=receiptPrinter%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_szAOUbvXEeKJYId_lrX5hg" points="[447, 634, -9019, -422]$[447, 1191, -9019, 135]$[7841, 1191, -1625, 135]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TvSe8LvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_TvlZ4LvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvSe8rvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvSe9LvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_vvplrbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvSe9bvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvSe97vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_vvplsLvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvSe-LvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TvSe-rvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TvSe-bvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=operatorPanel%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vvplobvXEeKJYId_lrX5hg" points="[872, 398, -6496, 1322]$[7407, 398, 39, 1322]$[7407, -290, 39, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TyQ6cLvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_TzwINLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyQ6crvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyQ6dLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ycOgrbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyQ6dbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TyQ6d7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ycOgsLvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TyQ6eLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TyQ6ervnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TyQ6ebvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=customerConsole%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ycOgobvXEeKJYId_lrX5hg" points="[-33, -1, 305, -1]$[-269, -1, 69, -1]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T3BeorvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_Tyj1arvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3BepLvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3BeprvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_1hrOrbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3Bep7vnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3BeqbvnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_1h0YkLvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3BeqrvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T3BerLvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T3Beq7vnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=networkToBank%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1hrOobvXEeKJYId_lrX5hg" points="[872, 53, -3539, 2957]$[4521, 53, 110, 2957]$[4521, -2270, 110, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T2boxbvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_T11y6rvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T2box7vnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2boybvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4xNszbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T2boyrvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2bozLvnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4xNs0LvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T2bozbvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T2boz7vnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T2bozrvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=envelopeAcceptor%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4xNswbvXEeKJYId_lrX5hg" points="[-83, -633, -178, 2271]$[-83, -2270, -178, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T3n7mbvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_Tx0OirvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3n7m7vnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3n7nbvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_62PfmLvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3n7nrvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3n7oLvnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_62Pfm7vXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T3n7obvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T3n7o7vnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T3n7orvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=cashDispenser%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_62FukbvXEeKJYId_lrX5hg" points="[-479, -633, 4165, 2139]$[-479, -1428, 4165, 1344]$[-3569, -1428, 1075, 1344]$[-3569, -2138, 1075, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TvJVALvnEeKJYId_lrX5hg" source="_TwL20LvnEeKJYId_lrX5hg" target="_TxEnoLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvJVArvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvJVBLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_9h7CvbvXEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvJVBbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvJVB7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_9iEzsbvXEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvJVCLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TvJVCrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TvJVCbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9h7CsbvXEeKJYId_lrX5hg" points="[-871, -370, 5795, 5042]$[-6697, -370, -31, 5042]$[-6697, -4778, -31, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TvvK6rvnEeKJYId_lrX5hg" source="_Tx0OirvnEeKJYId_lrX5hg" target="_TxEnoLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tv474LvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tv474rvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CSBUrbvYEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tv4747vnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tv475bvnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CSKekrvYEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Tv475rvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_Tv476LvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Tv4757vnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log2%5Bjsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CSBUobvYEeKJYId_lrX5hg" points="[-14, -24, 62, 76]$[-46, -105, 30, -5]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Ty3XYLvnEeKJYId_lrX5hg" source="_T11y6rvnEeKJYId_lrX5hg" target="_TxEnoLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ty3XYrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ty3XZLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_DU0ObbvYEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ty3XZbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ty3XZ7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_DU0OcLvYEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Ty3XaLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_Ty3XarvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Ty3XabvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=EnvelopeAcceptor%5Bjcu%5Ename=EnvelopeAcceptor.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DU0OYbvYEeKJYId_lrX5hg" points="[-1701, -633, 5060, 1875]$[-1701, -1265, 5060, 1243]$[-5072, -1265, 1689, 1243]$[-5072, -2096, 1689, 412]$[-5955, -2096, 806, 412]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T0M0ILvnEeKJYId_lrX5hg" source="_Tyj1arvnEeKJYId_lrX5hg" target="_TxEnoLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0M0IrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0M0JLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_EhljjbvYEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0M0JbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0M0J7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_EhljkLvYEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0M0KLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T0M0KrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T0M0KbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=NetworkToBank%5Bjcu%5Ename=NetworkToBank.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EhljgbvYEeKJYId_lrX5hg" points="[39, -1690, 11167, 146]$[39, -1963, 11167, -127]$[-5391, -1963, 5737, -127]$[-5391, -1824, 5737, 12]$[-8947, -1824, 2181, 12]"/>
+      </edges>
+    </contents>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_FFP0wLvZEeKJYId_lrX5hg" type="Class" name="Package Diagram">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T24UvLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T24UvrvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Jhy4lrvZEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24UwLvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24UwbvnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3BeoLvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_T3BeobvnEeKJYId_lrX5hg" type="PackageContents" canonical="false">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_TzdNSrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TzdNTLvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_MJwZUbvZEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNTrvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNT7vnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNULvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_TzdNUbvnEeKJYId_lrX5hg" type="PackageContents" canonical="false">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_Tx0OgLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_Tx0OgrvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_gfuM47vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx0OhLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx0OhbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx0OhrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx0Oh7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx0OiLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx0OibvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gfuM4bvZEeKJYId_lrX5hg" x="159" y="27"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_T3eKmLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_T3n7kbvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_h2AqY7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3n7k7vnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3n7lLvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T3n7lbvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T3n7lrvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T3n7l7vnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T3n7mLvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Withdrawal%5Bjcu%5Ename=Withdrawal.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h2AqYbvZEeKJYId_lrX5hg" x="159" y="1743"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_T0pgELvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_T0pgErvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_jMTH4bvZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0pgFLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0pgFbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0pgFrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0pgF7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0pgGLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0pgGbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Inquiry%5Bjcu%5Ename=Inquiry.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jMJW4bvZEeKJYId_lrX5hg" x="291" y="3327"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_T0yqCLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_T0yqCrvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_l1KAg7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqDLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqDbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0yqDrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0yqD7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0yqELvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T0yqEbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Deposit%5Bjcu%5Ename=Deposit.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l1KAgbvZEeKJYId_lrX5hg" x="4911" y="27"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_TzKSVrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_TzKSWLvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_n0gpI7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSWrvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSW7vnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzKSXLvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzKSXbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzKSXrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzKSX7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transfer%5Bjcu%5Ename=Transfer.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n0gpIbvZEeKJYId_lrX5hg" x="4911" y="1743"/>
+              </children>
+            </children>
+            <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MJnPZLvZEeKJYId_lrX5hg" x="553" y="2216" width="9441" height="6556"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T2It0LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T2It0rvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_RrF69bvZEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2It1LvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2It1bvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2It1rvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_T2It17vnEeKJYId_lrX5hg" type="PackageContents" canonical="false">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_T1GMCLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_T1GMCrvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_pkFwY7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMDLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMDbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1GMDrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1GMD7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1GMELvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1GMEbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CardReader%5Bjcu%5Ename=CardReader.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pkFwYbvZEeKJYId_lrX5hg" x="159" y="291"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_Tx9_iLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_Tx9_irvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_qxTKY7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_jLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_jbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tx9_jrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_j7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_kLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tx9_kbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qxTKYbvZEeKJYId_lrX5hg" x="159" y="2007"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_Tz55MLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_Tz55MrvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_sPUnk7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55NLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55NbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tz55NrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tz55N7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tz55OLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tz55ObvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CustomerConsole%5Bjcu%5Ename=CustomerConsole.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sPUnkbvZEeKJYId_lrX5hg" x="159" y="3723"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_T1-80rvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_T1-81LvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_vdX387vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1-81rvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1-817vnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1-82LvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1-82bvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1-82rvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_T1-827vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EnvelopeAcceptor%5Bjcu%5Ename=EnvelopeAcceptor.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vdX38bvZEeKJYId_lrX5hg" x="27" y="5439"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_TxEnqrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_TxEnrLvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_x1Rjc7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxEnrrvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxEnr7vnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxOYoLvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TxOYobvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TxOYorvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TxOYo7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Log%5Bjcu%5Ename=Log.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x1RjcbvZEeKJYId_lrX5hg" x="8260" y="159"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_TytmY7vnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_TytmZbvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_022eE7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TytmZ7vnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TytmaLvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TytmabvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TytmarvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_Tytma7vnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TytmbLvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NetworkToBank%5Bjcu%5Ename=NetworkToBank.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_022eEbvZEeKJYId_lrX5hg" x="7468" y="2007"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_TvvK4LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_TvvK4rvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_6BR7k7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvvK5LvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvvK5bvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvvK5rvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TvvK57vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TvvK6LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TvvK6bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OperatorPanel%5Bjcu%5Ename=OperatorPanel.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6BR7kbvZEeKJYId_lrX5hg" x="7600" y="3987"/>
+              </children>
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_TzdNQLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                <children xmi:type="notation:DecorationNode" xmi:id="_TzdNQrvnEeKJYId_lrX5hg" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_7vX1E7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNRLvnEeKJYId_lrX5hg" type="Stereotype"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNRbvnEeKJYId_lrX5hg" type="Name"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzdNRrvnEeKJYId_lrX5hg" type="Parent"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzdNR7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzdNSLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+                <children xmi:type="notation:ListCompartment" xmi:id="_TzdNSbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+                <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ReceiptPrinter%5Bjcu%5Ename=ReceiptPrinter.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7vX1EbvZEeKJYId_lrX5hg" x="7732" y="5703"/>
+              </children>
+            </children>
+            <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RrF687vZEeKJYId_lrX5hg" x="12003" y="104" width="11954" height="8752"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_TwL22rvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TwL23LvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_YU45c7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwexwLvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwexwbvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwexwrvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_Twexw7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TwexxLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TwexxbvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YU45cbvZEeKJYId_lrX5hg" x="553" y="236"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T11y4LvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T11y4rvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_aydIE7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y5LvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y5bvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T11y5rvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T11y57vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T11y6LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T11y6bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aydIEbvZEeKJYId_lrX5hg" x="5833" y="236"/>
+          </children>
+        </children>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jhy4lLvZEeKJYId_lrX5hg" x="1190" y="1111" width="26718" height="12721"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_T1iQ5rvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1iQ6LvnEeKJYId_lrX5hg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="__pm2A7vZEeKJYId_lrX5hg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ6rvnEeKJYId_lrX5hg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ67vnEeKJYId_lrX5hg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ7LvnEeKJYId_lrX5hg" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_T1iQ7bvnEeKJYId_lrX5hg" type="PackageContents" canonical="false">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_Tzm-SrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Tzm-TLvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_EJp5w7vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tzm-TrvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tzm-T7vnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzwIMLvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TzwIMbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TzwIMrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TzwIM7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountInformation%5Bjcu%5Ename=AccountInformation.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJp5wbvaEeKJYId_lrX5hg" x="819" y="423"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T2R3yrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T2R3zLvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_E4Ee87vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2R3zrvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2bowLvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2bowbvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2bowrvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2bow7vnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2boxLvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Balances%5Bjcu%5Ename=Balances.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E4Ee8bvaEeKJYId_lrX5hg" x="951" y="2271"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_Tyj1YLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Tyj1YrvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_F4MfM7vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1ZLvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1ZbvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tyj1ZrvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_Tyj1Z7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_Tyj1aLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_Tyj1abvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Card%5Bjcu%5Ename=Card.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F4MfMbvaEeKJYId_lrX5hg" x="951" y="4251"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T1ZG-rvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T1ZG_LvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_Hq5y87vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ4LvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ4bvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1iQ4rvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T1iQ47vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T1iQ5LvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T1iQ5bvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Hq5y8bvaEeKJYId_lrX5hg" x="9267" y="423"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_TwoiwbvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Twoiw7vnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_IvxwU7vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwoixbvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwoixrvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Twoix7vnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TwoiyLvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TwoiybvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TwoiyrvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Money%5Bjcu%5Ename=Money.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IvxwUbvaEeKJYId_lrX5hg" x="9267" y="2403"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T0DDIrvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T0DDJLvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_JtFGE7vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0DDJrvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0DDJ7vnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0DDKLvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T0DDKbvnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T0DDKrvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T0DDK7vnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Reciept%5Bjcu%5Ename=Reciept.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtFGEbvaEeKJYId_lrX5hg" x="9399" y="4383"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_T2ujsLvnEeKJYId_lrX5hg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_T2ujsrvnEeKJYId_lrX5hg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_KZQ2o7vaEeKJYId_lrX5hg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2ujtLvnEeKJYId_lrX5hg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2ujtbvnEeKJYId_lrX5hg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_T2ujtrvnEeKJYId_lrX5hg" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2ujt7vnEeKJYId_lrX5hg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2ujuLvnEeKJYId_lrX5hg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_T2ujubvnEeKJYId_lrX5hg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Status%5Bjcu%5Ename=Status.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KZQ2obvaEeKJYId_lrX5hg" x="14415" y="2535"/>
+          </children>
+        </children>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__pm2AbvZEeKJYId_lrX5hg" x="2376" y="14784" width="20660" height="8276"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_WZZdIbvZEeKJYId_lrX5hg" element="_WZZdILvZEeKJYId_lrX5hg" source="_TzdNSrvnEeKJYId_lrX5hg" target="_T2It0LvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_WZZdI7vZEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_WZZdJbvZEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_WZZdJrvZEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WZZdJLvZEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WZZdIrvZEeKJYId_lrX5hg" points="[178, 9, -211, 47]$[251, 39, -138, 77]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TxhTkLvnEeKJYId_lrX5hg" source="_TwL22rvnEeKJYId_lrX5hg" target="_T11y4LvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxhTkrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxhTlLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_aym5F7vZEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxhTlbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxhTl7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_aym5GrvZEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxhTmLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TxhTmrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TxhTmbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=session%5Bjsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aydIHLvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TvcP9rvnEeKJYId_lrX5hg" source="_T3eKmLvnEeKJYId_lrX5hg" target="_Tx0OgLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TvcP-LvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvcP-rvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TvcP-7vnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h2KbY7vZEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Withdrawal%5Bjcu%5Ename=Withdrawal.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_h2KbYbvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TxYJorvnEeKJYId_lrX5hg" source="_T0pgELvnEeKJYId_lrX5hg" target="_Tx0OgLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TxYJpLvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJprvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TxYJp7vnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jMTH7LvZEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Inquiry%5Bjcu%5Ename=Inquiry.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jMTH6rvZEeKJYId_lrX5hg" points="[-311, -633, -536, 2667]$[-311, -2666, -536, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T24UtrvnEeKJYId_lrX5hg" source="_T0yqCLvnEeKJYId_lrX5hg" target="_Tx0OgLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T24UuLvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24UurvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T24Uu7vnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l1KAjrvZEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Deposit%5Bjcu%5Ename=Deposit.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_l1KAjLvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T08bBrvnEeKJYId_lrX5hg" source="_TzKSVrvnEeKJYId_lrX5hg" target="_Tx0OgLvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T08bCLvnEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T08bCrvnEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T08bC7vnEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n0pzF7vZEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Transfer%5Bjcu%5Ename=Transfer.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_n0pzFbvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T1PV8LvnEeKJYId_lrX5hg" source="_Tx9_iLvnEeKJYId_lrX5hg" target="_TxEnqrvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1PV8rvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1PV9LvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1bUeLvZEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1PV9bvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T1PV97vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1bUe7vZEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T1PV-LvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T1PV-rvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T1PV-bvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x1RjfLvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Tv476bvnEeKJYId_lrX5hg" source="_Tx9_iLvnEeKJYId_lrX5hg" target="_TxEnqrvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwCF0LvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwCF0rvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1bUlrvZEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwCF07vnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TwCF1bvnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1bUmbvZEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TwCF1rvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TwCF2LvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TwCF17vnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log2%5Bjsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x1bUirvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TzAhULvnEeKJYId_lrX5hg" source="_T1-80rvnEeKJYId_lrX5hg" target="_TxEnqrvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzAhUrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzAhVLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1kebrvZEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzAhVbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_TzAhV7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x1kecbvZEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TzAhWLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_TzAhWrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TzAhWbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=EnvelopeAcceptor%5Bjcu%5Ename=EnvelopeAcceptor.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x1keYrvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_T0WlILvnEeKJYId_lrX5hg" source="_TytmY7vnEeKJYId_lrX5hg" target="_TxEnqrvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0WlIrvnEeKJYId_lrX5hg" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0WlJLvnEeKJYId_lrX5hg" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_022eKLvZEeKJYId_lrX5hg" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0WlJbvnEeKJYId_lrX5hg" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T0WlJ7vnEeKJYId_lrX5hg" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_022eK7vZEeKJYId_lrX5hg" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_T0WlKLvnEeKJYId_lrX5hg" visible="false" type="associationTypeLabel">
+          <children xmi:id="_T0WlKrvnEeKJYId_lrX5hg" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_T0WlKbvnEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=log%5Bjsrctype%5Ename=NetworkToBank%5Bjcu%5Ename=NetworkToBank.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_022eHLvZEeKJYId_lrX5hg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fcgm8bvaEeKJYId_lrX5hg" element="_fcgm8LvaEeKJYId_lrX5hg" source="_T24UvLvnEeKJYId_lrX5hg" target="_T1iQ5rvnEeKJYId_lrX5hg" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fcgm87vaEeKJYId_lrX5hg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fcgm9bvaEeKJYId_lrX5hg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fcgm9rvaEeKJYId_lrX5hg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fcgm9LvaEeKJYId_lrX5hg" y="-186"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fcgm8rvaEeKJYId_lrX5hg" points="[-8, 239, 62, -194]$[-8, 289, 62, -144]"/>
+      </edges>
+    </contents>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_uxniBLvVEeKJYId_lrX5hg" type="Freeform" name="Main"/>
+  </eAnnotations>
+  <packageImport xmi:id="_uxniBbvVEeKJYId_lrX5hg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packageImport xmi:id="_PByDdrvmEeKJYId_lrX5hg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="__pdFALvZEeKJYId_lrX5hg" name="banking">
+    <eAnnotations xmi:id="__pdFAbvZEeKJYId_lrX5hg" source="uml2.diagrams" references="__pdFArvZEeKJYId_lrX5hg">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__pdFArvZEeKJYId_lrX5hg" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <eAnnotations xmi:id="_T5HJULvnEeKJYId_lrX5hg" source="uml2.ownedShortcuts">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T5HJUbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Money%5Bjcu%5Ename=Money.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T5j1QLvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Card%5Bjcu%5Ename=Card.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T5_6IbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AccountInformation%5Bjcu%5Ename=AccountInformation.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T6JrILvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Reciept%5Bjcu%5Ename=Reciept.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T6cmEbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T6vhALvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Balances%5Bjcu%5Ename=Balances.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T6vhAbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Status%5Bjcu%5Ename=Status.java%5Bjpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_Jhy4kLvZEeKJYId_lrX5hg" name="atm" clientDependency="_fcgm8LvaEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_Jhy4kbvZEeKJYId_lrX5hg" source="uml2.diagrams" references="_Jhy4krvZEeKJYId_lrX5hg">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Jhy4krvZEeKJYId_lrX5hg" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <eAnnotations xmi:id="_T4XicLvnEeKJYId_lrX5hg" source="uml2.ownedShortcuts">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T4XicbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ATM%5Bjcu%5Ename=ATM.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_T6mXELvnEeKJYId_lrX5hg" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=atm%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Package" xmi:id="_MJnPYLvZEeKJYId_lrX5hg" name="transaction" clientDependency="_WZZdILvZEeKJYId_lrX5hg">
+      <eAnnotations xmi:id="_MJnPYbvZEeKJYId_lrX5hg" source="uml2.diagrams" references="_MJnPYrvZEeKJYId_lrX5hg">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_MJnPYrvZEeKJYId_lrX5hg" type="Freeform" name="Main">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+      <eAnnotations xmi:id="_T5QTQLvnEeKJYId_lrX5hg" source="uml2.ownedShortcuts">
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5QTQbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transaction%5Bjcu%5Ename=Transaction.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T52wMLvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Transfer%5Bjcu%5Ename=Transfer.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T6JrIbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Inquiry%5Bjcu%5Ename=Inquiry.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T6TcILvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Deposit%5Bjcu%5Ename=Deposit.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T6vhArvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Withdrawal%5Bjcu%5Ename=Withdrawal.java%5Bjpack%5Ename=atm.transaction%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_WZZdILvZEeKJYId_lrX5hg" client="_MJnPYLvZEeKJYId_lrX5hg">
+        <supplier xmi:type="uml:Package" href="mmi:///#jpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Rq8xALvZEeKJYId_lrX5hg" name="physical">
+      <eAnnotations xmi:id="_RrF68LvZEeKJYId_lrX5hg" source="uml2.diagrams" references="_RrF68bvZEeKJYId_lrX5hg">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RrF68bvZEeKJYId_lrX5hg" type="Freeform" name="Main">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+      <eAnnotations xmi:id="_T4NxcLvnEeKJYId_lrX5hg" source="uml2.ownedShortcuts">
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T4NxcbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OperatorPanel%5Bjcu%5Ename=OperatorPanel.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5HJUrvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Log%5Bjcu%5Ename=Log.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5aEQLvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CashDispenser%5Bjcu%5Ename=CashDispenser.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5j1QbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NetworkToBank%5Bjcu%5Ename=NetworkToBank.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5_6ILvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ReceiptPrinter%5Bjcu%5Ename=ReceiptPrinter.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T5_6IrvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CustomerConsole%5Bjcu%5Ename=CustomerConsole.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T6cmELvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CardReader%5Bjcu%5Ename=CardReader.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+        <contents xmi:type="ecore:EAnnotation" xmi:id="_T6mXEbvnEeKJYId_lrX5hg" source="eObjectShortcut">
+          <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EnvelopeAcceptor%5Bjcu%5Ename=EnvelopeAcceptor.java%5Bjpack%5Ename=atm.physical%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D%5D%5D$uml.Class"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_fcgm8LvaEeKJYId_lrX5hg" client="_Jhy4kLvZEeKJYId_lrX5hg">
+      <supplier xmi:type="uml:Package" href="mmi:///#jpack%5Ename=banking%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ATM_JAVA%5D%5D$uml.Package"/>
+    </packagedElement>
+  </packagedElement>
+  <profileApplication xmi:id="_uxniBrvVEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_uxniB7vVEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_uxniCrvVEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_uxniC7vVEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_uxniCLvVEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_uxniCbvVEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_PByDd7vmEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_PByDeLvmEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_PByDebvmEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_PByDervmEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_PByDe7vmEeKJYId_lrX5hg">
+    <eAnnotations xmi:id="_PByDfLvmEeKJYId_lrX5hg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
