@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_qv_FY72SEeKHv7wzkhAgJw" name="Maitinimo Istaigos">
+  <eAnnotations xmi:id="_qv_FZL2SEeKHv7wzkhAgJw" source="uml2.diagrams" references="_qv_FZb2SEeKHv7wzkhAgJw">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_qv_FZb2SEeKHv7wzkhAgJw" type="Freeform" name="Main"/>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ysawcL2SEeKHv7wzkhAgJw" type="Class" name="Maitinimo Istaigos CD">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k4ruQL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4ruQr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_RqaLQb2WEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ruRL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ruRb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ruRr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4ruR72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4ruSL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4ruSb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Navigation%5Bjcu%5Ename=Navigation.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rp9fUb2WEeKB8ronGHHySw" x="14784" y="8976"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k5IaML2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5IaMr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_S6J7472WEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5IaNL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5IaNb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5IaNr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5IaN72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5IaOL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5IaOb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserEntity%5Bjcu%5Ename=UserEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S6J74b2WEeKB8ronGHHySw" x="5344" y="12461"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k66i4L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k66i4r2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_UtAZk72WEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k66i5L2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k66i5b2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k66i5r2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k66i572nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k66i6L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k66i6b2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UtAZkb2WEeKB8ronGHHySw" x="19932" y="11616"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k4Ppab2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4Ppa72nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_WOmvNL2WEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4Ppbb2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4Ppbr2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4Ppb72nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4PpcL2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4YzUL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k4YzUb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserController%5Bjcu%5Ename=UserController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WOmvMr2WEeKB8ronGHHySw" x="3036" y="8580"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k2mqrL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2mqrr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_cHvs1L2WEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqsL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqsb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqsr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k2mqs72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k2wboL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k2wbob2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceController%5Bjcu%5Ename=FoodServiceController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cHvs0r2WEeKB8ronGHHySw" x="10560" y="12144"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k7XO0L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7XO0r2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_f6S78b2XEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7XO1L2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7XO1b2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7XO1r2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7XO172nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7XO2L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7XO2b2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceEntity%5Bjcu%5Ename=FoodServiceEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f6JyAr2XEeKB8ronGHHySw" x="10821" y="9260"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k8G1sL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k8G1sr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_P_2cAb2YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8G1tL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8G1tb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8G1tr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8G1t72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8G1uL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8G1ub2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NewsEntity%5Bjcu%5Ename=NewsEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_P_srAr2YEeKB8ronGHHySw" x="17424" y="5412"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k7ET6r2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7ET7L2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_RR1BRL2YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET7r2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET772nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET8L2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7OE4L2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7OE4b2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7OE4r2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Newscontroller%5Bjcu%5Ename=Newscontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RR1BQr2YEeKB8ronGHHySw" x="11800" y="5662"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k79rwb2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k79rw72nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_U5nAQ72YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79rxb2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79rxr2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79rx72nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k79ryL2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k79ryb2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k79ryr2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerEntity%5Bjcu%5Ename=OwnerEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_U5nAQb2YEeKB8ronGHHySw" x="6204" y="5412"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k2wbrL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k25lkL2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Wv4lY72YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k25lkr2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k25lk72nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k25llL2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k25llb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k3y9cL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k3y9cb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wv4lYb2YEeKB8ronGHHySw" x="14552" y="3492"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k1kI0L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k1kI0r2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_YTtvpL2YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI1L2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI1b2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI1r2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1kI172nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1kI2L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1kI2b2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MessageController%5Bjcu%5Ename=MessageController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YTtvor2YEeKB8ronGHHySw" x="13332" y="1056"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k8QmtL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k8Qmtr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_azWa072YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8QmuL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8Qmub2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8Qmur2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8Qmu72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8QmvL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k8Qmvb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Comment%5Bjcu%5Ename=Comment.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_azWa0b2YEeKB8ronGHHySw" x="10956" y="3300"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k6UtB72nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6UtCb2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_ffk5Y72YEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6UtC72nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6UtDL2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6UtDb2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6UtDr2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6eeAL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6eeAb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ffk5Yb2YEeKB8ronGHHySw" x="1452" y="1716"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k5lGJr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5lGKL2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_k2pH472cEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGKr2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGK72nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGLL2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5lGLb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5lGLr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5lGL72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserService%5Bjcu%5Ename=UserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k2pH4b2cEeKB8ronGHHySw" x="20856" y="15048"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k6ByEL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6ByEr2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_mTCNY72cEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByFL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByFb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByFr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6ByF72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6ByGL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k6ByGb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AdminService%5Bjcu%5Ename=AdminService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mTCNYb2cEeKB8ronGHHySw" x="17028" y="15048"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k5SLOr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5SLPL2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_eckyAb2dEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLPr2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLP72nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLQL2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5SLQb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5bVIL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k5bVIb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerService%5Bjcu%5Ename=OwnerService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ecboEr2dEeKB8ronGHHySw" x="13332" y="15048"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k7g_2L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7g_2r2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_7DiLY72dEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_3L2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_3b2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_3r2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7g_372nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7g_4L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k7qJwL2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServices%5Bjcu%5Ename=FoodServices.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7DiLYb2dEeKB8ronGHHySw" x="23892" y="15048"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k1RN4L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k1RN4r2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_SNLngb2eEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1RN5L2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1RN5b2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1RN5r2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1RN572nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1aX0L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k1aX0b2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MobileUserService%5Bjcu%5Ename=MobileUserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SNB2gr2eEeKB8ronGHHySw" x="9108" y="15048"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k3y9fL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k38HYL2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_OCSNAb2hEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38HYr2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38HY72nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38HZL2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k38HZb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k38HZr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_k38HZ72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OCJDEr2hEeKB8ronGHHySw" x="18891" y="8572"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k7z6w72nEeKB8ronGHHySw" source="_k1kI0L2nEeKB8ronGHHySw" target="_k6UtB72nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7z6xb2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7z6x72nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7z6yL2nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Sk6kU72ZEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=MessageController%5Bjcu%5Ename=MessageController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Sk6kUb2ZEeKB8ronGHHySw" points="[-75, 3, 385, -22]$[-459, 1, 1, -24]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k2mqoL2nEeKB8ronGHHySw" source="_k4Ppab2nEeKB8ronGHHySw" target="_k6UtB72nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2mqor2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqpL2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqpb2nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tj1qtL2ZEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=UserController%5Bjcu%5Ename=UserController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tj1qsr2ZEeKB8ronGHHySw" points="[-1453, -633, 2664, 6937]$[-1453, -3728, 2664, 3842]$[-3768, -3728, 349, 3842]$[-3768, -6936, 349, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6K8AL2nEeKB8ronGHHySw" source="_k2mqrL2nEeKB8ronGHHySw" target="_k6UtB72nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6K8Ar2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6K8BL2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6K8Bb2nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UscRgb2ZEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=FoodServiceController%5Bjcu%5Ename=FoodServiceController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UsTHkr2ZEeKB8ronGHHySw" points="[-2247, 53, 7430, 10481]$[-3309, 53, 6368, 10481]$[-3309, -8174, 6368, 2254]$[-8468, -8174, 1209, 2254]$[-8468, -9794, 1209, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4YzXL2nEeKB8ronGHHySw" source="_k7ET6r2nEeKB8ronGHHySw" target="_k6UtB72nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4YzXr2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikUL2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikUb2nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YBL_xL2ZEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Newscontroller%5Bjcu%5Ename=Newscontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YBL_wr2ZEeKB8ronGHHySw" points="[-1691, 53, 8670, 3999]$[-3464, 53, 6897, 3999]$[-3464, -3941, 6897, 5]$[-8682, -3941, 1679, 5]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k1tSwL2nEeKB8ronGHHySw" source="_k66i4L2nEeKB8ronGHHySw" target="_k5SLOr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k1tSwr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1tSxL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kE6Tjb2dEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k1tSxb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1tSx72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kE6TkL2dEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k13DwL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k13Dwr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k13Dwb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=ownerService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kE6Tgb2dEeKB8ronGHHySw" points="[-1123, 623, 5028, -2809]$[-3094, 623, 3057, -2809]$[-3094, 1853, 3057, -1579]$[-6027, 1853, 124, -1579]$[-6027, 2799, 124, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4F4YL2nEeKB8ronGHHySw" source="_k66i4L2nEeKB8ronGHHySw" target="_k6ByEL2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4F4Yr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4F4ZL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_lJfV-72dEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4F4Zb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4F4Z72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_lJfV_r2dEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4F4aL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k4F4ar2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k4F4ab2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=adminService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lJWMAb2dEeKB8ronGHHySw" points="[-443, 634, 2012, -2798]$[-443, 1721, 2012, -1711]$[-2455, 1721, 0, -1711]$[-2455, 2799, 0, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k5u3Kr2nEeKB8ronGHHySw" source="_k66i4L2nEeKB8ronGHHySw" target="_k5lGJr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5u3LL2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5u3Lr2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_lmDWJb2dEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5u3L72nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5u3Mb2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_lmDWKL2dEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5u3Mr2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k5u3NL2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k5u3M72nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=userService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ll6MM72dEeKB8ronGHHySw" points="[455, 634, -786, -2798]$[455, 2799, -786, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6nn9r2nEeKB8ronGHHySw" source="_k66i4L2nEeKB8ronGHHySw" target="_k7g_2L2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6nn-L2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6nn-r2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_9aHoTb2dEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6nn-72nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6nn_b2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_9aHoUL2dEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6nn_r2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k6noAL2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k6nn_72nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=foodServices%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9aHoQb2dEeKB8ronGHHySw" points="[29, 24, -136, -106]$[156, 106, -9, -24]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k2J-t72nEeKB8ronGHHySw" source="_k66i4L2nEeKB8ronGHHySw" target="_k1RN4L2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2J-ub2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2J-u72nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TYm43b2eEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2J-vL2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2J-vr2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TYm44L2eEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2J-v72nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k2J-wb2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k2J-wL2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=mobileUser%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TYm40b2eEeKB8ronGHHySw" points="[39, 634, 9322, -2751]$[39, 1588, 9322, -1797]$[-8805, 1588, 478, -1797]$[-8805, 2752, 478, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6eeDL2nEeKB8ronGHHySw" source="_k3y9fL2nEeKB8ronGHHySw" target="_k7ET6r2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6eeDr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6eeEL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_c4qyfb2hEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6nn8L2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6nn8r2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_c4qygL2hEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6nn872nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k6nn9b2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k6nn9L2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=newscontroller%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_c4qycb2hEeKB8ronGHHySw" points="[187, -633, 6696, 2277]$[187, -1559, 6696, 1351]$[-5073, -1559, 1436, 1351]$[-5073, -2276, 1436, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6K8DL2nEeKB8ronGHHySw" source="_k3y9fL2nEeKB8ronGHHySw" target="_k1kI0L2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6K8Dr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6UtAL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_e1V6jb2hEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6UtAb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6UtA72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_e1V6kL2hEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6UtBL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k6UtBr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k6UtBb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=messageController%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_e1V6gb2hEeKB8ronGHHySw" points="[716, -633, 5441, 6883]$[716, -1162, 5441, 6354]$[2039, -1162, 6764, 6354]$[2039, -7380, 6764, 136]$[-2782, -7380, 1943, 136]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k7qJy72nEeKB8ronGHHySw" source="_k3y9fL2nEeKB8ronGHHySw" target="_k2mqrL2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7qJzb2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7qJz72nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_g6MuPb2hEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7qJ0L2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7qJ0r2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_g6MuQL2hEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7z6wL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k7z6wr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k7z6wb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=foodServiceController%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_g6MuMb2hEeKB8ronGHHySw" points="[-739, -633, 6507, -4205]$[-739, -1030, 6507, -4602]$[-1797, -1030, 5449, -4602]$[-1797, 2912, 5449, -660]$[-2723, 2912, 4523, -660]$[-2723, 3625, 4523, 53]$[-5051, 3625, 2195, 53]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4ikWL2nEeKB8ronGHHySw" source="_k3y9fL2nEeKB8ronGHHySw" target="_k4Ppab2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4ikWr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikXL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kEQPbb2hEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4ikXb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikX72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kEQPcL2hEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4ikYL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k4ikYr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k4ikYb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=userController%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kEQPYb2hEeKB8ronGHHySw" points="[-210, -633, 12583, -1347]$[-210, -1294, 12583, -2008]$[-11560, -1294, 1233, -2008]$[-11560, 81, 1233, -633]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k41fSr2nEeKB8ronGHHySw" source="_k3y9fL2nEeKB8ronGHHySw" target="_k66i4L2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k41fTL2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k41fTr2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_zQXNNL2hEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k41fT72nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k41fUb2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_zQXNN72hEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k41fUr2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k41fVL2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k41fU72nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=session%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQNcMb2hEeKB8ronGHHySw" points="[11, 24, -29, -91]$[72, 139, 32, 24]"/>
+      </edges>
+    </contents>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_zxAUwL2kEeKB8ronGHHySw" type="Class" name="Package Diagram">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k2c5oL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2c5or2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_-lGJc72kEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2c5pL2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2c5pb2nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2c5pr2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_k2c5p72nEeKB8ronGHHySw" type="PackageContents" canonical="false">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k7qJwb2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k7qJw72nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_hruU872lEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7qJxb2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7qJxr2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7qJx72nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7qJyL2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7qJyb2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7qJyr2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServices%5Bjcu%5Ename=FoodServices.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hruU8b2lEeKB8ronGHHySw" x="28" y="99"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k5bVIr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k5bVJL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_o8fM072lEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5bVJr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5bVJ72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5bVKL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5bVKb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5bVKr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5bVK72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerService%5Bjcu%5Ename=OwnerService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o8fM0b2lEeKB8ronGHHySw" x="28" y="1815"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k6ByGr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k6ByHL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_rA7Jw72lEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByHr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByH72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6ByIL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6ByIb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6ByIr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6ByI72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AdminService%5Bjcu%5Ename=AdminService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rA7Jwb2lEeKB8ronGHHySw" x="28" y="3399"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k5u3IL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k5u3Ir2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_yU0OI72lEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5u3JL2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5u3Jb2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5u3Jr2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5u3J72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5u3KL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5u3Kb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserService%5Bjcu%5Ename=UserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yU0OIb2lEeKB8ronGHHySw" x="28" y="4983"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k8Qmvr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k8ZwoL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_UF7YM72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8Zwor2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8Zwo72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8ZwpL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Zwpb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Zwpr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Zwp72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Comment%5Bjcu%5Ename=Comment.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UF7YMb2mEeKB8ronGHHySw" x="4268" y="99"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k7XO2r2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k7g_0L2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_aR-qw72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_0r2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_072nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7g_1L2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7g_1b2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7g_1r2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7g_172nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceEntity%5Bjcu%5Ename=FoodServiceEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aR-qwb2mEeKB8ronGHHySw" x="4252" y="1815"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k3y9cr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k3y9dL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_bqD4A72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k3y9dr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k3y9d72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k3y9eL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k3y9eb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k3y9er2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k3y9e72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqD4Ab2mEeKB8ronGHHySw" x="4268" y="3267"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k1aX0r2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k1aX1L2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_egc2U72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1aX1r2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1aX172nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1aX2L2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1aX2b2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1aX2r2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1aX272nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MobileUserService%5Bjcu%5Ename=MobileUserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_egc2Ub2mEeKB8ronGHHySw" x="4268" y="4983"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k41fQL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k41fQr2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_gu0yY72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k41fRL2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k41fRb2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k41fRr2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k41fR72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k41fSL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k41fSb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Navigation%5Bjcu%5Ename=Navigation.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gu0yYb2mEeKB8ronGHHySw" x="4252" y="6567"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k8G1ur2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k8G1vL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_hfCHU72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8G1vr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8G1v72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k8QmsL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Qmsb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Qmsr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k8Qms72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NewsEntity%5Bjcu%5Ename=NewsEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hfCHUb2mEeKB8ronGHHySw" x="4252" y="8019"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k79ry72nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k79rzb2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_iP-cE72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79rz72nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79r0L2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79r0b2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k79r0r2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k79r072nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k79r1L2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerEntity%5Bjcu%5Ename=OwnerEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iP-cEb2mEeKB8ronGHHySw" x="4252" y="9471"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k7ET4L2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k7ET4r2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_kr5E472mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET5L2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET5b2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7ET5r2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7ET572nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7ET6L2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7ET6b2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kr5E4b2mEeKB8ronGHHySw" x="28" y="7491"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k38HaL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k38Har2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_qOt0Q72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38HbL2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38Hbb2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k38Hbr2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k38Hb72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k38HcL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k38Hcb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qOt0Qb2mEeKB8ronGHHySw" x="160" y="9735"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k5SLML2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k5SLMr2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_sL-yM72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLNL2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLNb2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5SLNr2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5SLN72nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5SLOL2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k5SLOb2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserEntity%5Bjcu%5Ename=UserEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sL-yMb2mEeKB8ronGHHySw" x="4252" y="11187"/>
+          </children>
+        </children>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-lGJcb2kEeKB8ronGHHySw" x="263" y="3624" width="8780" height="16001"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_k5bVLL2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k5lGIL2nEeKB8ronGHHySw" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_MPSok72lEeKB8ronGHHySw" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGIr2nEeKB8ronGHHySw" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGI72nEeKB8ronGHHySw" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_k5lGJL2nEeKB8ronGHHySw" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_k5lGJb2nEeKB8ronGHHySw" type="PackageContents" canonical="false">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k1kI2r2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k1kI3L2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_G_SSE72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI3r2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI372nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k1kI4L2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1kI4b2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1kI4r2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k1kI472nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MessageController%5Bjcu%5Ename=MessageController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G_SSEb2mEeKB8ronGHHySw" x="60" y="-7"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k2wbor2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k2wbpL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_I1atQ72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2wbpr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2wbp72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2wbqL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k2wbqb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k2wbqr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k2wbq72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceController%5Bjcu%5Ename=FoodServiceController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I1atQb2mEeKB8ronGHHySw" x="60" y="1570"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k6eeAr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k6eeBL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_LQu5I72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6eeBr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6eeB72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6eeCL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6eeCb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6eeCr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k6eeC72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LQu5Ib2mEeKB8ronGHHySw" x="6264" y="2494"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k7OE472nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k7OE5b2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_NBqEM72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7OE572nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7OE6L2nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7OE6b2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7OE6r2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7OE672nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k7OE7L2nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Newscontroller%5Bjcu%5Ename=Newscontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBqEMb2mEeKB8ronGHHySw" x="192" y="3286"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_k4YzUr2nEeKB8ronGHHySw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_k4YzVL2nEeKB8ronGHHySw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_OORoU72mEeKB8ronGHHySw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4YzVr2nEeKB8ronGHHySw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4YzV72nEeKB8ronGHHySw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4YzWL2nEeKB8ronGHHySw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k4YzWb2nEeKB8ronGHHySw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k4YzWr2nEeKB8ronGHHySw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_k4YzW72nEeKB8ronGHHySw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserController%5Bjcu%5Ename=UserController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OORoUb2mEeKB8ronGHHySw" x="192" y="4870"/>
+          </children>
+        </children>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MPSokb2lEeKB8ronGHHySw" x="12144" y="3564" width="11584" height="12588"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6K8Br2nEeKB8ronGHHySw" source="_k2wbor2nEeKB8ronGHHySw" target="_k6eeAr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6K8CL2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6K8Cr2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6K8C72nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LQ4qI72mEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=FoodServiceController%5Bjcu%5Ename=FoodServiceController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LQ4qIb2mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k7z6yb2nEeKB8ronGHHySw" source="_k1kI2r2nEeKB8ronGHHySw" target="_k6eeAr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k7z6y72nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k7z6zb2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k79rwL2nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LQ4qKb2mEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=MessageController%5Bjcu%5Ename=MessageController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LQ4qJ72mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4ikUr2nEeKB8ronGHHySw" source="_k7OE472nEeKB8ronGHHySw" target="_k6eeAr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4ikVL2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikVr2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4ikV72nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NBqEPr2mEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Newscontroller%5Bjcu%5Ename=Newscontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NBqEPL2mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k2mqpr2nEeKB8ronGHHySw" source="_k4YzUr2nEeKB8ronGHHySw" target="_k6eeAr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2mqqL2nEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqqr2nEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2mqq72nEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OORoXr2mEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=UserController%5Bjcu%5Ename=UserController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Generalization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OORoXL2mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k54BEL2nEeKB8ronGHHySw" source="_k7ET4L2nEeKB8ronGHHySw" target="_k5u3IL2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k54BEr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k54BFL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksC16b2mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k54BFb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k54BF72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksC17L2mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k54BGL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k54BGr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k54BGb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=userService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kr5E7L2mEeKB8ronGHHySw" points="[42, -633, -275, 1875]$[42, -1874, -275, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k2A0wL2nEeKB8ronGHHySw" source="_k7ET4L2nEeKB8ronGHHySw" target="_k5bVIr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2A0wr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2J-sL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksL_1L2mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2J-sb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2J-s72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksL_172mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2J-tL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k2J-tr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k2J-tb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=ownerService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ksC1-72mEeKB8ronGHHySw" points="[-620, -633, -1069, 5043]$[-620, -5042, -1069, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k2TvsL2nEeKB8ronGHHySw" source="_k7ET4L2nEeKB8ronGHHySw" target="_k1aX0r2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2Tvsr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2TvtL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksL_8r2mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2Tvtb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k2Tvt72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksL_9b2mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k2TvuL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k2Tvur2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k2Tvub2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=mobileUser%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ksL_5r2mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4F4a72nEeKB8ronGHHySw" source="_k7ET4L2nEeKB8ronGHHySw" target="_k6ByGr2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4PpYL2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4PpYr2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksVw1b2mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4PpY72nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4PpZb2nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksVw2L2mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4PpZr2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k4PpaL2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k4PpZ72nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=adminService%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ksMABL2mEeKB8ronGHHySw" points="[571, -633, 122, 3459]$[571, -3458, 122, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k6xY8L2nEeKB8ronGHHySw" source="_k7ET4L2nEeKB8ronGHHySw" target="_k7qJwb2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6xY8r2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6xY9L2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksVw872mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6xY9b2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k6xY972nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ksVw9r2mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k6xY-L2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k6xY-r2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k6xY-b2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=foodServices%5Bjsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ksVw572mEeKB8ronGHHySw" points="[836, -633, 426, 6759]$[836, -6758, 426, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_k4_QQL2nEeKB8ronGHHySw" source="_k38HaL2nEeKB8ronGHHySw" target="_k7ET4L2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4_QQr2nEeKB8ronGHHySw" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4_QRL2nEeKB8ronGHHySw" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_qOt0WL2mEeKB8ronGHHySw" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4_QRb2nEeKB8ronGHHySw" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_k4_QR72nEeKB8ronGHHySw" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_qOt0W72mEeKB8ronGHHySw" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_k4_QSL2nEeKB8ronGHHySw" visible="false" type="associationTypeLabel">
+          <children xmi:id="_k4_QSr2nEeKB8ronGHHySw" type="associationTypeCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_k4_QSb2nEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=session%5Bjsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D%5D$uml.Property"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qOt0TL2mEeKB8ronGHHySw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_0-voUb2mEeKB8ronGHHySw" element="_0-voUL2mEeKB8ronGHHySw" source="_k2c5oL2nEeKB8ronGHHySw" target="_k5bVLL2nEeKB8ronGHHySw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_0-5ZUL2mEeKB8ronGHHySw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_0-5ZUr2mEeKB8ronGHHySw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_0-5ZU72mEeKB8ronGHHySw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0-5ZUb2mEeKB8ronGHHySw" y="-186"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0-voUr2mEeKB8ronGHHySw" points="[165, -47, -337, 20]$[284, -82, -218, -15]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_qv_FZr2SEeKHv7wzkhAgJw">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_-kzOgL2kEeKB8ronGHHySw" name="BusinessLogic" clientDependency="_0-voUL2mEeKB8ronGHHySw">
+    <eAnnotations xmi:id="_-k8YcL2kEeKB8ronGHHySw" source="uml2.diagrams" references="_-k8Ycb2kEeKB8ronGHHySw">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-k8Ycb2kEeKB8ronGHHySw" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <eAnnotations xmi:id="_k8jhoL2nEeKB8ronGHHySw" source="uml2.ownedShortcuts">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k8jhob2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MobileUserService%5Bjcu%5Ename=MobileUserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k94-YL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Message%5Bjcu%5Ename=Message.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k94-Yb2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=System%5Bjcu%5Ename=System.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-olQL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Navigation%5Bjcu%5Ename=Navigation.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-olQb2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserEntity%5Bjcu%5Ename=UserEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-olQr2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerService%5Bjcu%5Ename=OwnerService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-yWQL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserService%5Bjcu%5Ename=UserService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-yWQb2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AdminService%5Bjcu%5Ename=AdminService.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-8HQL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Session%5Bjcu%5Ename=Session.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-8HQr2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceEntity%5Bjcu%5Ename=FoodServiceEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k_FRML2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServices%5Bjcu%5Ename=FoodServices.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k_FRMb2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=OwnerEntity%5Bjcu%5Ename=OwnerEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k_FRMr2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=NewsEntity%5Bjcu%5Ename=NewsEntity.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k_FRM72nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Comment%5Bjcu%5Ename=Comment.java%5Bjpack%5Ename=BusinessLogic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_0-voUL2mEeKB8ronGHHySw" client="_-kzOgL2kEeKB8ronGHHySw">
+      <supplier xmi:type="uml:Package" href="mmi:///#jpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D$uml.Package"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_MPI3kL2lEeKB8ronGHHySw" name="Web">
+    <eAnnotations xmi:id="_MPI3kb2lEeKB8ronGHHySw" source="uml2.diagrams" references="_MPI3kr2lEeKB8ronGHHySw">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_MPI3kr2lEeKB8ronGHHySw" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <eAnnotations xmi:id="_k8jhor2nEeKB8ronGHHySw" source="uml2.ownedShortcuts">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k8jho72nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MessageController%5Bjcu%5Ename=MessageController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k9mDcL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FoodServiceController%5Bjcu%5Ename=FoodServiceController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-VqUL2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserController%5Bjcu%5Ename=UserController.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-yWQr2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Pagecontroller%5Bjcu%5Ename=Pagecontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_k-8HQb2nEeKB8ronGHHySw" source="eObjectShortcut">
+        <references xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Newscontroller%5Bjcu%5Ename=Newscontroller.java%5Bjpack%5Ename=Web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=Maitinimo_Istaigos_JAVA%5D%5D%5D%5D$uml.Class"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <profileApplication xmi:id="_qv_FZ72SEeKHv7wzkhAgJw">
+    <eAnnotations xmi:id="_qv_FaL2SEeKHv7wzkhAgJw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_qv_Fab2SEeKHv7wzkhAgJw">
+    <eAnnotations xmi:id="_qv_Far2SEeKHv7wzkhAgJw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_qv_Fa72SEeKHv7wzkhAgJw">
+    <eAnnotations xmi:id="_qv_FbL2SEeKHv7wzkhAgJw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
